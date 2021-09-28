@@ -7,6 +7,9 @@
  <h4><p> Connect Github with Webstorm</p></h4>
  <p>•In Webstorm press (Ctrl+Alt+S) for system preferences.</p> 
  <p>•Select Version control Git. Enter the path to the git.exe</p>
+ <h4>Add Github Password to Webstorm</h4>
+ <p>•In Webstorm press (Ctrl+Alt+S) for system preferences</p>
+ <p>•SelectAppearance and Behavior | System Settings | Passwords</p>
  <p>Download from: https://www.jetbrains.com/student/</p>
  <h2>
 Glossary Words:
